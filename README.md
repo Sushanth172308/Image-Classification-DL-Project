@@ -20,7 +20,7 @@ The 10 different classes of this dataset are:
 - Truck
 CIFAR-10 dataset is already available in the datasets module of Keras. We do not need to download it; we can directly import it from keras.datasets.
 
-# Short description about the model training and tkinter gui.
+# Short description about the model training and Tkinter gui.
 
 Image classification on the CIFAR-10 dataset involves training a machine learning model to classify images into ten different classes: airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks.
 
